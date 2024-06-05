@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    background: #e4e9f7;
+}
+
+.atas {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(76,68,182,0.808);
+    color: white;
+    border-radius: 0 0 20px 20px;
+    margin: 0 48px;
+    padding: 15px 24px;
+}
+
+.container{
+    width: 800px;
+    height: 400px;
+    background: #d4d8e5;
+    margin-top: 40px;
+    border:3px solid #fff;
+    border-radius: 8px;
+}
+
+.Inputan h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.ContainerStruck{
+    width: 500px;
+    height: auto;
+    background: #d4d8e5;
+    border:1px solid #000;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.Struck{
+    padding: 30px;
+    text-align: center;
+}
+
